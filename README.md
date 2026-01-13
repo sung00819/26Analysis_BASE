@@ -21,4 +21,4 @@ BOAZ 26기 분석 Base 세션 자료 및 과제 제출 repo
 |Week11|26.03.26|멀티모달과 파운데이션 모델 : CLIP & SAM|
 |Week12|26.04.02|정형데이터에서의 딥러닝 활용 : TabNet & TabPFN|
 ***
-Github 사용 안내 : [실습 시 Git Hub 사용 가이드라인](https://observant-wax-f96.notion.site/Git-Hub-229c031af4b980479de4cb6d7e73bf90?source=copy_link)
+Github 사용 안내 : [실습 시 Git Hub 사용 가이드라인](https://amenable-neptune-f45.notion.site/Git-Hub-2e7db0522dd0810292e9c4f21617f544)
